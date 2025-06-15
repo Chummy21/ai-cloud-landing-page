@@ -57,10 +57,10 @@ ai-cloud-landing-page/
   - SSH (port 22)
 
 ### EC2 Instance Showing Ubuntu OS
-![EC2 Instance Showing Ubuntu OS](./assets/UbuntuOS.png)
+![EC2 Instance Showing Ubuntu OS](/assets/UbuntuOS.png)
 
 ### EC2 Instance Showing Ubuntu OS
-![EC2 Instance Showing Public IP](./assets/public IP and Ubuntu OS.png)
+![EC2 Instance Showing Public IP](/assets/public-IP-and-Ubuntu-OS.png)
 
 
 ### 4. Web Server: Nginx
